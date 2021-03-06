@@ -1,0 +1,13 @@
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.exe
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.deps.json
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.runtimeconfig.json
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.runtimeconfig.dev.json
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.dll
+C:\git-project\dotnet\PockerGame\PockerGame\bin\Debug\netcoreapp3.1\PockerGame.pdb
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.csprojAssemblyReference.cache
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.AssemblyInfoInputs.cache
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.AssemblyInfo.cs
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.csproj.CoreCompileInputs.cache
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.dll
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.pdb
+C:\git-project\dotnet\PockerGame\PockerGame\obj\Debug\netcoreapp3.1\PockerGame.genruntimeconfig.cache
